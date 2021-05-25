@@ -1,2 +1,2 @@
 # ml-practice
-this repo is having the notebooks from kaggle labs
+this repo is having my notebooks from kaggle labs
